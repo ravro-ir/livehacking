@@ -17,4 +17,3 @@
 |Live BugBounty (006)|[Video](https://www.aparat.com/v/r0BKD)|[![Twitter](https://img.shields.io/badge/twitter-@NaserifardA-blue.svg)](https://twitter.com/NaserifardA)
 |Live BugBounty (007)|[Video](https://www.aparat.com/v/nJFmq)|[![Twitter](https://img.shields.io/badge/twitter-@thisismoreti-blue.svg)](https://twitter.com/thisismoreti)
 |Live BugBounty (008)|[Video](https://www.aparat.com/v/7do4w)|[![Twitter](https://img.shields.io/badge/twitter-@NaserifardA-blue.svg)](https://twitter.com/NaserifardA)
-|Live BugBounty (009)|[Video](https://www.aparat.com/v/7do4w)|[![Twitter](https://img.shields.io/badge/twitter-@NaserifardA-blue.svg)](https://twitter.com/NaserifardA)
