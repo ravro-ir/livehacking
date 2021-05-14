@@ -5,3 +5,6 @@
 |----------------------|--------------------|--------------------
 |Android App Static Analysis|[Video](https://www.aparat.com/v/d5kTw)|[![Twitter](https://img.shields.io/badge/twitter-@thisismoreti-blue.svg)](https://twitter.com/thisismoreti)
 |Subdomain Takeover|[Video](https://www.aparat.com/v/AQVwk)|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
+|iOS Vulnerabilities|[Video](https://www.aparat.com/v/3V68g)|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
+|HackTheBox 001 - The Vault|[Video](https://www.aparat.com/v/ec126)|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
+|Web Logic Vulnerability|[Video](https://www.aparat.com/v/fVj7v)|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
