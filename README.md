@@ -10,7 +10,7 @@
 |HackTheBox 002 - The Zipper|[Video](https://www.aparat.com/v/FUa3b)|N/A|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
 |Web Logic Vulnerability|[Video](https://www.aparat.com/v/fVj7v)|N/A|[![Twitter](https://img.shields.io/badge/twitter-@Sin_Khe-blue.svg)](https://twitter.com/Sin_Khe)
 |Live BugBounty (001)|[Video](https://www.aparat.com/v/mJNup)|N/A|[![Twitter](https://img.shields.io/badge/twitter-@Pouyadarabi-blue.svg)](https://twitter.com/Pouyadarabi)
-|Live BugBounty (002)|[Video](https://www.aparat.com/v/kDeuN)|Amir Kiani
+|Live BugBounty (002)|[Video](https://www.aparat.com/v/kDeuN)|N/A|Amir Kiani
 |Live BugBounty (003)|[Video](https://www.aparat.com/v/rmKdA)|N/A|[![Twitter](https://img.shields.io/badge/twitter-@r00t98-blue.svg)](https://twitter.com/r00t98)
 |Live BugBounty (004)|[Video](https://www.aparat.com/v/U0b6j)|N/A|[![Twitter](https://img.shields.io/badge/twitter-@meisamrce-blue.svg)](https://twitter.com/meisamrce)
 |Live BugBounty (005)|[Video](https://www.aparat.com/v/x9efB)|N/A|Ramin Farajpour Cami
