@@ -12,7 +12,7 @@
 |Live BugBounty (001)|[Video](https://www.aparat.com/v/mJNup)|[![Twitter](https://img.shields.io/badge/twitter-@Pouyadarabi-blue.svg)](https://twitter.com/Pouyadarabi)
 |Live BugBounty (002)|[Video](https://www.aparat.com/v/kDeuN)|Amir Kiani
 |Live BugBounty (003)|[Video](https://www.aparat.com/v/rmKdA)|[![Twitter](https://img.shields.io/badge/twitter-@r00t98-blue.svg)](https://twitter.com/r00t98)
-|Live BugBounty (004)|[Video](https://www.aparat.com/v/U0b6j)|Meisam Monsef
+|Live BugBounty (004)|[Video](https://www.aparat.com/v/U0b6j)|[![Twitter](https://img.shields.io/badge/twitter-@meisamrce-blue.svg)](https://twitter.com/meisamrce)
 |Live BugBounty (005)|[Video](https://www.aparat.com/v/x9efB)|Ramin Farajpour Cami
 |Live BugBounty (006)|[Video](https://www.aparat.com/v/r0BKD)|[![Twitter](https://img.shields.io/badge/twitter-@NaserifardA-blue.svg)](https://twitter.com/NaserifardA)
 |Live BugBounty (007)|[Video](https://www.aparat.com/v/nJFmq)|[![Twitter](https://img.shields.io/badge/twitter-@thisismoreti-blue.svg)](https://twitter.com/thisismoreti)
